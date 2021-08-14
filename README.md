@@ -4,7 +4,7 @@ En este repositorio se encuentras las notas para el curso de simulación matemá
 Este curso consiste de tres módulos. 
 
 `Módulo 1.` **Optimización**
-> Se evaluará con una presentación de **proyecto.**
+
    1. ¿Qué es una simulación?
     - Introducción e instalación de software.
     - Uso de markdown.
@@ -15,7 +15,7 @@ Este curso consiste de tres módulos.
    5. Regresión logística
    
 `Módulo 2.` **Montecarlo**
-> Se evaluará con una presentación de **proyecto.**
+
    1. Generación de números aleatorios
    2. Caminata aleatoria
    3. Integrales
@@ -24,7 +24,7 @@ Este curso consiste de tres módulos.
    6. Probabilidad precio-umbral
    
 `Módulo 3.`  **Ecuaciones diferenciales**
-> Se evaluará con una presentación de **proyecto.**
+
    1. Introducción a ecuaciones diferenciales
    2. ¿Cómo se muve un péndulo? 
    3. ¿Cómo funciona la suspensión de un auto? 
