@@ -1,5 +1,5 @@
-# Simulación Matemática - Primavera 2021
-En este repositorio se encuentras las notas para el curso de simulación matemática en el periodo de primavera del 2021. Material adicional será proporcionado durante clases.
+# Simulación Matemática - Otoño 2021
+En este repositorio se encuentran las notas para el curso de simulación matemática en el periodo de otoño del 2021.
 
 Este curso consiste de tres módulos. 
 
